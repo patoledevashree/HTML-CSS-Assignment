@@ -1,0 +1,45 @@
+.carousel-inner{
+    background-image: url("C:/Neosoft/HTML CSS Assignment/assests/images/hbg5.png");
+    height: 530px;
+    width: 1348px;
+    
+    
+}
+.carousel-image p{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 5px;
+   
+}
+.carousel-image h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.carousel-image img{
+    border: 10px solid  #4dbe51;
+    margin-top: 8%;
+
+}
+.carousel-image h1{
+    padding-bottom: 400px;
+    font-family: 'Times New Roman', Times, serif;
+}
+@media screen and (max-width: 600px) {
+    .carousel-image p{
+      font-size: 18px;
+    }
+    .carousel-image h1{
+        font-size: 22px;
+        padding-bottom: 450px;
+    }
+    .carousel-image img{
+        border: 2px solid  #4dbe51;
+        margin-top: 10%;
+        height: 100px;
+        width: 100px;
+       
+    }
+    .carousel-data{
+        padding-top: 20px;
+    }
+}

@@ -345,6 +345,15 @@ li{
     color: white;
     text-decoration: none;
 }
+.blog1:hover >p > b{
+    color:#9ACD32;
+}
+.blog2:hover >p > b{
+    color:#9ACD32;
+}
+.blog3:hover >p > b{
+    color:#9ACD32;
+}
 
 .image1{
     padding-top: 100px;
